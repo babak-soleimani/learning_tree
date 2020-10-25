@@ -70,6 +70,3 @@ Returns
         root = self.ancestors[0][0]
 
         return root.tree_list()
-
-a = Treebuilder().build()
-print (a)
